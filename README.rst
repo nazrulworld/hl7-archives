@@ -11,10 +11,16 @@ One stop location for HL7, FHIR related archieves.
 History
 =======
 
-0.3.0 (unpublished)
+0.4.0 (unreleased)
 ------------------
 
-- not yet.
+- nothing yet
+
+
+0.3.0 (2022-12-22)
+------------------
+
+- R4B (4.3.0) packages are added.
 
 
 0.2.0 (2020-07-02)
