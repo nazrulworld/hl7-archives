@@ -16,6 +16,12 @@ History
 
 - nothing yet
 
+0.3.2 (2022-12-22)
+------------------
+
+- another fixes R4B resources folder structures.
+
+
 0.3.1 (2022-12-22)
 ------------------
 
