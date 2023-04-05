@@ -14,7 +14,7 @@ History
 0.4.0 (unreleased)
 ------------------
 
-- nothing yet
+- R5 resources are added.
 
 0.3.2 (2022-12-22)
 ------------------
