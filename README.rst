@@ -11,7 +11,10 @@ One stop location for HL7, FHIR related archieves.
 History
 =======
 
-0.4.0 (unreleased)
+0.4.1 (unreleased)
+------------------
+
+0.4.0 (2023-04-05)
 ------------------
 
 - R5 resources are added.
